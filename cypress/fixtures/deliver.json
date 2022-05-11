@@ -1,0 +1,49 @@
+{
+    "signup": {
+        "nome": "Ricardo Motta",
+        "cpf": "01234567890",
+        "email": "riqardo.motta@gmail.com",
+        "whatsapp": "41999999999",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "239",
+            "complemento": "cobertura",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto"
+    },
+
+    "cpf_inv": {
+        "nome": "Cauê Motta",
+        "cpf": "x12345678AA",
+        "email": "rmotta@studio.com",
+        "whatsapp": "41999999999",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "239",
+            "complemento": "cobertura",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto"
+    },
+
+    "email_inv": {
+        "nome": "Vanessa Motta",
+        "cpf": "01234567890",
+        "email": "vcolode.gmail.com",
+        "whatsapp": "41999999999",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "239",
+            "complemento": "cobertura",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Bike Elétrica"
+    }
+}
